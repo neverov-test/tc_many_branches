@@ -1,0 +1,8 @@
+Just setup your vcs root to watch this repository.
+
+Set the branch spec to +:refs/heads/tc-testing-(*)
+
+This demo repository was created by running:
+
+    ./build_branches.sh tc-testing 30000
+    git push --all
